@@ -1,0 +1,15 @@
+vaadin-grid::part(UNCHECKED) {
+    background: #ECF0F1;
+}
+
+vaadin-grid::part(CHECKING) {
+    background: #95A5A6;
+}
+
+vaadin-grid::part(SUCCEED) {
+    background: #27AE60;
+}
+
+vaadin-grid::part(FAILED) {
+    background: #D35400;
+}
